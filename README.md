@@ -3,9 +3,9 @@ Developing a user experience optimization project by implementing sentiment anal
 
 ### Currently a work in progress ###
 
-Steps to be completed (x: incomplete, *: completed)
+Steps to be completed (x: incomplete, ^: completed)
 
-* Data Collection: Collect recent tweets and posts mentioning TikTok using Twitter API, focusing on a diverse set of keywords and hashtags for a comprehensive dataset capturing various user interactions and opinions.
+^ Data Collection: Collect recent tweets and posts mentioning TikTok using Twitter API, focusing on a diverse set of keywords and hashtags for a comprehensive dataset capturing various user interactions and opinions.
 
 x Data Cleaning and Preprocessing: Cleanse dataset to remove noise, such as irrelevant posts and spam, and preprocesses it for analysis with tokenization, stop word removal, and techniques like stemming or lemmatization.
 
