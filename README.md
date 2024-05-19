@@ -1,5 +1,5 @@
 # SentimentScope-Social-Media-UX-Enhancement
-Developing a user experience optimization project for TikTok by implementing sentiment analysis on social media data through Twitter’s X API, leveraging NLP to enhance product interaction insights.
+Developing a user experience optimization project for social media by implementing sentiment analysis on TikTok's data through Twitter’s API, leveraging NLP to enhance product interaction insights.
 
 ### Currently a work in progress ###
 
